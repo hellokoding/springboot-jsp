@@ -1,4 +1,7 @@
 dependencies:
+- name: spring-boot-hello-world
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.1
 - name: springbootwebapp
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
