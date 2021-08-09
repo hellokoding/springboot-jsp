@@ -1,0 +1,23 @@
+.btn_save
+{
+
+    background-color: aliceblue;
+    color: black;
+}
+.btn_save:hover
+{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+.btn_clear
+{
+    background-color: aliceblue;
+    color: black;
+}
+.btn_clear:hover
+{
+    cursor: pointer;
+    background-color: dodgerblue;
+    color: white;
+}
